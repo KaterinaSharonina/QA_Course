@@ -1,1 +1,1 @@
-# QA_Course
+# QA Course_Vadim Ksendzov's 
