@@ -1,0 +1,9 @@
+#!/bin/bash
+# This is a wonderful script
+cd 1
+mkdir n1 n2 n3
+cd n1
+touch f1.txt f2.txt f3.txt f4.json f5.json
+mkdir nn1 nn2 nn3
+ls -la
+mv f1.txt f2.txt nn1 
