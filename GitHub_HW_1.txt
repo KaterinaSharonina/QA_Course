@@ -1,0 +1,68 @@
+1) Создала новые ветки: 
+git branch Postman
+git branch Jmeter
+git branch CheckLists
+git branch BugReports
+git branch SQL
+git branch Charles
+git branch MobileTesting
+
+Проверила наличие новых созданных веток:
+git branch
+
+2) Запушила все ветки на внешний репозиторий:
+git add .
+git push origin --all
+
+3) В ветке BugReports сделала текстовый документ со структурой баг репорта. 
+Для этого перешла в нужную ветку:
+git checkout BugReports
+
+Создала новый файл: 
+touch Defect_Report.txt
+
+Вызвала режим редактирования файла:
+vim Defect_Report.txt
+
+Проверила содержимое файла после редактирования: 
+cat Defect_Report.txt
+
+4) Запушила файл с баг репортом на внешний репозиторий:
+git status
+git add Defect_Report.txt
+git status
+git commit -m "Adding of the defect report"
+git status
+git push -u origin BugReports
+
+5) Смержила ветку BugReports в Main, перед этим вернувшись в основную ветку: 
+git checkout -
+git merge BugReports
+
+6) Запушила ветку Main на внешний репозиторий:
+git push -u origin main
+
+7) В ветке CheckLists набросала структуру чек-листа.
+Для этого перешла в нужную ветку:
+git checkout CheckLists
+
+Создала новый файл:
+touch Checklist_draft.txt
+
+Вызвала режим редактирования файла:
+vim Checklist_draft.txt
+
+Проверила содержимое файла после редактирования: 
+cat Checklist_draft.txt
+
+8) Запушила файл чек-листа на внешний репозиторий: 
+git add Checklist_draft.txt
+git status
+git commit -m "Adding of the draft check list"
+git push -u origin CheckLists
+
+9) На внешнем репозитории сделала Pull Request ветки CheckLists в Main.
+
+10) Синхронизировала Внешнюю и Локальную ветки Main:
+git fetch
+git pull
