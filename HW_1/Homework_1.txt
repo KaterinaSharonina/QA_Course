@@ -1,0 +1,23 @@
+Moble testing Android
+HW_1
+
+Task 1. Собрать приложение на эмуляторе
+См. фото Task_1_ToDoList_emulator_1, Task_1_ToDoList_emulator_2 и Task_1_ToDoList_emulator_3 в папке Attachment
+
+Task 2. Собрать приложение на реальном телефоне
+См. фото Task_2_ToDoList_Phone MI8_1 и Task_2_ToDoList_Phone MI8_2 в папке Attachment
+
+Task 3. Собрать .apk файл и установить на реальном телефоне.
+Для создания .apk файла в Android Studio нажимаем Build => Build Bundle(s)/APK(s) => Build APK(s)
+Далее см. файл Task_3_app-debug.apk и фото Task_3_APK в папке Attachment
+После установки на телефоне MI8 см. фото Task_3_ToDoList_Phone MI8 и видео Task_3_ToDoList_Phone MI8_video в папке Attachment
+
+Task 4. Сделать Adhoc тестирование приложения ToDo List
+Task 5. Создать Smoke чеклист для прооверки приложения ToDo List
+См. файл Check-list for Smoke testing - Mobile Testing - HW_1 
+
+Task 6. Создать Rergression чеклист для прооверки приложения ToDo List
+См. файл Check-list for Rergression testing - Mobile Testing - HW_1 
+
+Task 7. Сооздать End-to-End сценарии тестирования приложения ToDo List
+См. файл Check-list for End-to-End testing - Mobile Testing - HW_1 
