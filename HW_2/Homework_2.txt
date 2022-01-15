@@ -1,0 +1,23 @@
+Moble testing Reminder_Android_app
+HW_2
+
+1) Собрать приложение на эмуляторе
+См. фото Task_1_Reminder_emulator_photo1 и Task_1_Reminder_emulator_photo2 и видео Task_1_Reminder_video_Android Emulator - Pixel_4_XL_API_28 в папке Attachment
+
+2) Собрать приложение на реальном телефоне
+См. фото Task_2_Reminder_Phone MI8_photo1 и Task_2_Reminder_Phone MI8_photo2 в папке Attachment
+
+3) Собрать .apk файл и установить на реальном телефоне.
+Для создания .apk файла в Android Studio нажимаем Build => Build Bundle(s)/APK(s) => Build APK(s)
+Далее см. файл Task_3_app-debug.apk и фото Task_3_APK в папке Attachment
+После установки на телефоне MI8 см. фото Task_3_Reminder_photo_Phone MI8 и видео Task_3_Reminder_video_Phone MI 8 в папке Attachment
+
+4) Сделать Adhoc тестирование приложения Reminder
+5) Создать Smoke чеклист для прооверки приложения Reminder
+См. файл Check-list for Smoke testing_Reminder - Mobile Testing - HW_2
+
+6) Создать Rergression чеклист для прооверки приложения Reminder
+См. файл Check-list for Regression testing_Reminder - Mobile Testing - HW_2
+
+7) Сооздать End-to-End сценарии тестирования приложения Reminder
+См. файл Check-list for End-to-End testing_Reminder - Mobile Testing - HW_2
