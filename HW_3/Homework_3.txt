@@ -1,0 +1,15 @@
+Moble testing Reminder_Android_app_Fix
+HW_3
+
+1) Склонировать ветку fix_reminder с гитхаба https://github.com/KaterinaSharonina/android_reminder на локальное устройство
+
+2) Собрать приложение на эмуляторе
+Удалала ранее установленное приложение. Собрала новое. 
+См. фото Task_2_Reminder_Fix_emulator_photo в папке Attachment
+
+3) Собрать .apk файл и установить на реальном телефоне
+Удалила ранее установленное приложение. Установила новое.
+См. фото Task_3_Reminder_Fix_Phone MI8_photo в папке Attachment
+
+4) Протестить свои чек-листы и найти новые баги
+См. файл New bugs_Reminder_FIX - Mobile Testing - HW_3
