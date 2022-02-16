@@ -1,0 +1,9 @@
+HW_1_Registration form
+
+1. Протестировать форму регистрации пользователя по ссылке http://itcareer.pythonanywhere.com/
+2. Составить чек-лист по проверке
+3. Составить список баг-репортов
+4. Составить список улучшений
+
+Для просмотра решения дз воспользуйтесь ссылкой:
+https://docs.google.com/spreadsheets/d/17xZXkFiLoDTYI2XB_H4_w-BeeeZqxhY_4WsJKxYZcHA/edit?usp=sharing
